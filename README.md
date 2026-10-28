@@ -3,14 +3,14 @@
 A React Native (Expo) customer support form. Users fill out a report, attach a screenshot, and submit. The screenshot is uploaded to Cloudinary, and the details plus the image link are emailed through EmailJS.
 
 **Partners:** Rifiel John B. Natividad and Patrick D.R Legaspi
-**Repository:** <paste GitHub repository URL here>
+**Repository:** https://github.com/rif4nat-blip/support-ticket-app---patrif
 
 ## Setup
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/rif4nat-blip/support-ticket-app---patrif.git
+   cd support-ticket-app---patrif
    npm install
    ```
 2. Create your own `.env` file in the project root (copy `.env.example`) and fill in your values:
