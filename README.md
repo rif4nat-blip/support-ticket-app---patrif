@@ -2,7 +2,7 @@
 
 A React Native (Expo) customer support form. Users fill out a report, attach a screenshot, and submit. The screenshot is uploaded to Cloudinary, and the details plus the image link are emailed through EmailJS.
 
-**Partners:** Rifiel John B. Natividad and <partner's full name>
+**Partners:** Rifiel John B. Natividad and Patrick D.R Legaspi
 **Repository:** <paste GitHub repository URL here>
 
 ## Setup
