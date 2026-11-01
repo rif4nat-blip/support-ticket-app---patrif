@@ -171,7 +171,7 @@ export default function App() {
         keyboardShouldPersistTaps="handled"
       >
         <Text style={styles.title}>Customer Support Center Demo</Text>
-        <Text style={styles.subtitle}>Tell us what went wrong and attach a screenshot below.</Text>
+        <Text style={styles.subtitle}>Tell us what went wrong and attach a screenshot below Demo.</Text>
 
         <Text style={styles.label}>Name</Text>
         <TextInput
