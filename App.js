@@ -170,7 +170,7 @@ export default function App() {
         contentContainerStyle={styles.container}
         keyboardShouldPersistTaps="handled"
       >
-        <Text style={styles.title}>Customer Support</Text>
+        <Text style={styles.title}>Customer Support Center</Text>
         <Text style={styles.subtitle}>Tell us what went wrong and attach a screenshot.</Text>
 
         <Text style={styles.label}>Name</Text>
